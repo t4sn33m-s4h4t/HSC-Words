@@ -76,4 +76,4 @@ Each letter has an array of words with their respective synonyms and antonyms.
 
 ## Live Demo
 
-🚀 [Live Demo](#) _(https://hsc-word.surge.sh)_
+🚀 [Live Demo](https://hsc-word.surge.sh)

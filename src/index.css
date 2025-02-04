@@ -1,0 +1,37 @@
+@import "tailwindcss";
+
+.swiper-3d .swiper-slide-shadow{
+  background: none!important;
+}
+
+.FlashcardWrapper__item--back, .FlashcardWrapper__item--front{
+  box-shadow: none!important;
+}
+.custom-w {
+  width: 240px!important;
+  height: 400px;
+}
+
+@media (min-width: 480px) {
+  .custom-w {
+    width: 320px!important;
+  }
+}
+
+@media (min-width: 768px) {
+  .custom-w {
+    width: 360px!important;
+  }
+}
+
+@media (min-width: 1024px) {
+  .custom-w {
+    width: 468px!important;
+  }
+}
+
+@media (min-width: 1200px) {
+  .custom-w {
+    width: 524px!important;
+  }
+}

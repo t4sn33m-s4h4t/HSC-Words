@@ -1,7 +1,7 @@
 # HSC Words
 
 ## Description
-
+<img src="https://github.com/t4sn33m-s4h4t/HSC-Words/blob/main/ss.png" />
 **HSC Words** is a web application designed to help Bangladeshi HSC students learn vocabulary from NCTB books. The application provides letterwise vocabulary along with synonyms and antonyms, making exam preparation easier and more effective.
 
 ## Table of Contents
